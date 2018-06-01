@@ -1,7 +1,10 @@
-# tut-heroku-node-pg
+# tut-heroku-node-mongo
 
-Tutorial: Deploy Node.js with PostgreSQL on Heroku
+Tutorial: Deploy Node.js with MongoDB on Heroku using mLab
 
-View Demo here [https://tutorial-node-pg.herokuapp.com/](https://tutorial-node-pg.herokuapp.com/)
 
-View Tutorial here [https://huynhsamha.github.io/backend/deploy-nodejs-postgresql-app-to-heroku](https://huynhsamha.github.io/backend/deploy-nodejs-postgresql-app-to-heroku)
+### Demo on Heroku
+[https://tutorial-node-mongo.herokuapp.com/](https://tutorial-node-mongo.herokuapp.com/)
+
+### Tutorial 
+[https://huynhsamha.github.io/backend/deploy-nodejs-mongo-app-to-heroku-using-mlab](https://huynhsamha.github.io/backend/deploy-nodejs-mongo-app-to-heroku-using-mlab)
